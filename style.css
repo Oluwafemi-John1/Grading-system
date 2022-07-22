@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=DM+Serif+Display:ital@0;1&family=Mukta:wght@200&display=swap');
+/* .text-center {
+    height: 60vh;
+    width: 60vw;
+    display: grid;
+    place-content: center;
+    margin: auto;
+} */
+
+header {
+    font-family: 'Bree Serif', serif;
+}
+
+/* #parent{
+    width: 30vw;
+    margin: auto;
+} */
+h2 {
+    font-family: 'Bree Serif', serif;
+    font-size: 35px;
+    text-decoration: underline;
+}
+#userScore::placeholder{
+    font-family: 'Bree Serif', serif;
+    font-size: 25px;
+}
+#J {
+    font-family: 'Bree Serif', serif;
+    font-size: 25px;
+}
+#J::placeholder{
+    font-family: 'Bree Serif', serif;
+    font-size: 15px;
+}
+/* @media screen and (max-width: 400px) {
+    .text-center {
+        height: 70vh;
+        width: 70vw;
+    }
+    #parent{
+        width: 30vw;
+        margin: auto;
+    }
+} */
